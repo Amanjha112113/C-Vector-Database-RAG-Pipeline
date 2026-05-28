@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+core/bindings/PybindWrapper.cpp
+core/src/BruteForce.cpp
+core/src/Distance.cpp
+core/src/HNSW.cpp
+core/src/KDTree.cpp
+core_vectordb.egg-info/PKG-INFO
+core_vectordb.egg-info/SOURCES.txt
+core_vectordb.egg-info/dependency_links.txt
+core_vectordb.egg-info/top_level.txt

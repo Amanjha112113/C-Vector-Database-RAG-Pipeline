@@ -1,0 +1,5 @@
+source venv/bin/activate
+cd /Users/amanjha/Desktop/Study/projects_All/Your-OWN-AI/python_app
+uvicorn main:app --reload --port 8080
+
+ollama serve

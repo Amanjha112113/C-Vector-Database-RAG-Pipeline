@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: core_vectordb
+Version: 0.1.0
+Summary: C++ Core VectorDB with pybind11
+Dynamic: summary
